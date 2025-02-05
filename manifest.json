@@ -1,0 +1,19 @@
+{
+  "name": "StoryNode",
+  "id": "1387820616635448171",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "editorType": ["figma", "figjam"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": [
+      "https://api.openai.com",
+      "https://api.goapi.ai",
+      "https://cdn1.suno.ai",
+      "https://cdn2.suno.ai",
+      "https://oaidalleapiprodscus.blob.core.windows.net",
+      "https://filesystem.site"
+    ]
+  }
+}
